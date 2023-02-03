@@ -3,16 +3,6 @@
 
 ### Lembrem-se: júnior é aquela pessoa que provavelmente NÃO tem experiência!
 
-### Regras:
-
-- Só serão adicionadas empresas e vagas que **não peçam experiência prévia** para pessoas desenvolvedoras júnior e estagiárias.
-- Serão **deletadas** empresas e vagas que peçam **experiência prévia** ou **proficiência** em alguma coisa para pessoas desenvolvedoras júnior e estagiárias.
-
-## Vagas para pessoas desenvolvedoras júnior e estagiárias:
-
-Criaremos listas com vagas nas issues também, com o mesmo padrão do [Frontend/Vagas](https://github.com/frontendbr/vagas/issues).
-Quando você for criar uma [issue](https://github.com/alinebastos/vagas-junior-estagio/issues) já vai abrir um template para você somente editar com os dados da vaga.
-
 ## Empresas que oferecem vagas e programas para júnior e estágio:
 
 - Só deve ser adicionado o link da **página das vagas da empresa**, e não da vaga.
