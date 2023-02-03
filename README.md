@@ -1,4 +1,4 @@
-# WorkSearch
+# First's WorkSearchs
 # Empresas e vagas para pessoas desenvolvedoras júnior e estagiárias
 
 ### Lembrem-se: júnior é aquela pessoa que provavelmente NÃO tem experiência!
@@ -152,3 +152,7 @@ após fica trabalhando na empresa, aplicando os conhecimentos adquiridos.
 #### Sergipe - SE
 
 #### Tocantins - TO
+
+##### Portais de Vagas
+- Cafeína Vagas
+- JuniorLand
