@@ -1,3 +1,4 @@
 # GuiaDev
 - Empresas para aplicação sem experiência prévia. 
-- testes de lógica e projetos iniciantes.
+- Testes de lógica e projetos iniciantes.
+- Tips de Softskills.
